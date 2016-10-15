@@ -1,5 +1,3 @@
-# askisis-septevriou
-
 count=0
 a= raw_input("dwse arithmo")
 while 1:
